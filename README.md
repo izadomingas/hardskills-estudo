@@ -17,7 +17,7 @@ Estudando HardSkills
     <li>Windows</li>
      <li>Linux</li>
      <li>Mac</li>
-     <li>Mainframe/li>
+     <li>Mainframe</li>
      <li>Não só pela interface visual</li>
    </ul>
    <li>Office ou LibreOffice</li>

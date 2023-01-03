@@ -13,6 +13,13 @@ Estudando HardSkills
  
   <ol>
    <li>Sistema Operacional</li>
+   <ul>
+    <li>Windows</li>
+     <li>Linux</li>
+     <li>Mac</li>
+     <li><Mainframe/li>
+     <li>Não só pela interface visual</li>
+   </ul>
    <li>Office ou LibreOffice</li>
    <li>Email</li>
    <li>-</li>
